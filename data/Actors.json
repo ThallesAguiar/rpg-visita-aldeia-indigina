@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Thalles","characterIndex":0,"characterName":"Thalles","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Thalles","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thalles","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Prof-Jo","characterIndex":0,"characterName":"Prof-Jo","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Prof-Jo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jô Rosa","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Thalles","characterIndex":0,"characterName":"Thalles","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Thalles","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thalles","nickname":"","note":"","profile":""}
 ]
